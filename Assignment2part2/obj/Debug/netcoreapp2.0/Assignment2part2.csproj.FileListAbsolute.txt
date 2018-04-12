@@ -1,0 +1,11 @@
+c:\users\divya\source\repos\Assignment2part2\Assignment2part2\bin\Debug\netcoreapp2.0\Assignment2part2.deps.json
+c:\users\divya\source\repos\Assignment2part2\Assignment2part2\bin\Debug\netcoreapp2.0\Assignment2part2.runtimeconfig.json
+c:\users\divya\source\repos\Assignment2part2\Assignment2part2\bin\Debug\netcoreapp2.0\Assignment2part2.runtimeconfig.dev.json
+c:\users\divya\source\repos\Assignment2part2\Assignment2part2\bin\Debug\netcoreapp2.0\Assignment2part2.dll
+c:\users\divya\source\repos\Assignment2part2\Assignment2part2\obj\Debug\netcoreapp2.0\Assignment2part2.csprojResolveAssemblyReference.cache
+c:\users\divya\source\repos\Assignment2part2\Assignment2part2\obj\Debug\netcoreapp2.0\Assignment2part2.csproj.CoreCompileInputs.cache
+c:\users\divya\source\repos\Assignment2part2\Assignment2part2\obj\Debug\netcoreapp2.0\Assignment2part2.AssemblyInfoInputs.cache
+c:\users\divya\source\repos\Assignment2part2\Assignment2part2\obj\Debug\netcoreapp2.0\Assignment2part2.AssemblyInfo.cs
+c:\users\divya\source\repos\Assignment2part2\Assignment2part2\bin\Debug\netcoreapp2.0\Assignment2part2.pdb
+c:\users\divya\source\repos\Assignment2part2\Assignment2part2\obj\Debug\netcoreapp2.0\Assignment2part2.dll
+c:\users\divya\source\repos\Assignment2part2\Assignment2part2\obj\Debug\netcoreapp2.0\Assignment2part2.pdb
